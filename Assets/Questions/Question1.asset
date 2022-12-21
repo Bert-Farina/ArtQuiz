@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa5a318f7a835ec4c99d50782c2f9b8c, type: 3}
+  m_Name: Question1
+  m_EditorClassIdentifier: 
+  question: "\xBFQu\xE9 nombre recibe el estilo arquitect\xF3nico de las construcciones
+    \xE1rabes de la pen\xEDnsula ib\xE9rica?"
+  answers:
+  - "Nazar\xED"
+  - Arabesco
+  - "Moz\xE1rabe"
+  - "Ar\xE1bigo"
+  correctAnswerIndex: 2
